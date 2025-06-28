@@ -1,6 +1,6 @@
 # SelfcorrectionHeuristics
 
-In this anonymous repository, we will show a pdf file of additional experiments to further demonstrate our findings as well as the dataset we used in our paper.
+In this anonymous repository, we show (1) a pdf file of additional experiments to further demonstrate our findings and (2) the dataset we used in our paper.
 
 - Please refer to **EMNLP25_Rebuttal4ShallowSelfCorr.pdf** for the additional experiments we conducted to verify our findings. The additional experiments contains three more models, Phi-3.5-mini-instruct (3.8B), Llama-3-8B-Instruct, and Mistral-7B-Instruct-v0.3.
 
